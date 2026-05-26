@@ -1,6 +1,6 @@
 # Star-end Software License Agreement (SLA)
 
-Version 2.1.0 (rc1)
+Version 2.1.0
 
 (c) Star-end - All rights reserved
 
