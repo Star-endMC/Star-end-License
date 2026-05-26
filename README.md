@@ -1,6 +1,6 @@
 # Star-end Software License Agreement (SLA)
 
-The license might not be clear enough, so simplified guidelines are provided in order to do anything with the Software, not legally binded to the license. Disclaimer, that the guidelines may be subject to oversimplification.
+The license might not be clear enough, so simplified guidelines are provided for interacting with the Software, not legally binded to the license. Disclaimer, that the guidelines may subject to oversimplification.
 
 If you are unsure, you can always check the license and read it yourself. Time is spent refining and simplifying the license to be understandable for everyone. Otherwise, you may ask for permission.
 
