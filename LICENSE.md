@@ -1,12 +1,12 @@
 # Star-end Software License Agreement (SLA)
 
-Version 2.1.0
+Version 2.1.1
 
 (c) Star-end - All rights reserved
 
 ## Summary (not legally binding)
 
-If you are a standard player or developer: You can use, share, and modify this software completely free of charge for non-commercial purposes, provided you give proper credit and keep modified versions under this same license.
+If you are a standard player or developer, you can use, share, and modify this software completely free of charge for non-commercial purposes, provided you give proper credit and keep modified versions under this same license.
 
 If you are a business, commercial server host, or monetized network, you must obtain explicit prior written permission from Star-end before using or distributing this software for commercial purposes.
 
