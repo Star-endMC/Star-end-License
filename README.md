@@ -38,7 +38,7 @@ As a rule of thumb for users, you should:
 
 - Don't use it for commercial purposes. We dislike users profiting from our own work.
 
-- Always use the same license no matter what. You can simply declare this by assigning the license generally instead of individaully.
+- Always use the same license no matter what. You can simply declare this by assigning the license generally instead of individually.
 
 - Always give credits. As long as our name is clear, it should be fine.
 
