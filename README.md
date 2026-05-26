@@ -1,52 +1,49 @@
 # Star-end Software License Agreement (SLA)
 
-This document contains the official terms for using, modifying, and sharing Star-end software.
+The license might not be clear enough, so simplified guidelines are provided in order to do anything with the Software, not legally binded to the license. Disclaimer, that the guidelines may be subject to oversimplification.
 
-We wrote this agreement to keep our tools free and open for independent developers and regular users, while establishing clear, enforceable boundaries for commercial operations, server hosts, and derivative products.
+If you are unsure, you can always check the license and read it yourself. Time is spent refining and simplifying the license to be understandable for everyone. Otherwise, you may ask for permission.
 
-## Quick Reference Matrix
+## Guidelines
 
-We group permissions and restrictions based on how you interact with our software. Here is a breakdown of what you can and cannot do depending on your role.
+You may use, share and modify the Software for non-commercial purposes, however you must not violate the terms below.
 
-| Who You Are | Use the Software | Modify Code | Distribute It | Non-Commercial Only | Commercial Rights | Must Keep This License | Must Give Credit |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Regular User / Dev** | Yes | Yes | Yes | Yes | No | Yes | Yes |
-| **Commercial Entity** | Yes | No | No | No | Yes | No | No |
-| **Addon Creator** | Yes | Yes | Yes | Yes | No | Yes | Yes |
+You must follow these conditions when modifying, forking or reusing the Software, unless permission is provided:
 
----
+- You may take inspiration from the code, but you should not reuse more than a third of its code.
 
-## Complete License Terms
+- The Software should not be used for commercial purposes without permission.
 
-### 1. Acceptance of Terms
+- Any distributed modified files containing the code must have the same license.
 
-The moment you download, install, or run this software, you are entering a legally binding contract with Star-end. If you do not agree to every part of these terms, you do not have permission to access or use our files.
+- Credit should be given within documentation.
 
-### 2. Rules for Modifying and Reusing Code
+Public distribution is permitted, as long as:
 
-If you choose to fork our code or modify the software, you must follow these intellectual property rules:
+- The Software is loaded from official distribution sources (CurseForge/Modrinth) without modification.
 
-* **The 30% Cap:** You cannot copy 30% or more of our raw codebase (calculated by actual lines of code) to build a standalone project that mimics or replaces what our software already does.
-* **The Copyleft Rule:** If you share a modified version, a fork, or a submodule built from our software, it must ship with this exact license agreement. You cannot change the terms.
-* **Required Credit:** You must clearly and visibly credit Star-end in your documentation, repository credits, or directly within your app's user interface.
+- The Software is not embedded inside binaries.
 
-### 3. Commercial Restrictions and Exceptions
+- The bundle does not restrict access or enforce paywalls.
 
-You cannot use this software for commercial purposes, paid distribution schemes, or paywalled access models unless you have a signed, written agreement from Star-end.
+If anyone is found violating the terms, a notice will be given, and the violating party will be given a week (7 days) to fully comply. License may continue after this window, but the violating party remains fully liable for damages accumulated.
 
-* **What is allowed:** We explicitly exclude content creators from these commercial restrictions. You are fully permitted to monetize your gameplay videos and streams.
-* **Server Donations:** Communities running servers may accept donations from players, provided every cent goes exclusively toward paying the baseline costs of your hosting hardware.
+Failure to comply within a week of the notice or attempting to bypass will be considered breaching. Upon breach, this Agreement terminates immediately, and all rights granted are revoked.
 
-### 4. Rules for Distribution and Bundling
+## Rule of Thumb
 
-You are allowed to include this software in public modpacks or project bundles completely free of charge. However, you must pull the software directly from official sources without making alterations, you cannot embed it directly inside third-party binaries, and you cannot place the bundle behind an artificial paywall.
+As a rule of thumb for users, you should:
 
-### 5. Violations, Enforcement, and Legal Consequences
+- Not reuse significant portions of the code. If you can, implement the feature with your own implementations, or if you are unable to, ask our permission.
 
-* **The 7-Day Window:** If we catch a violation, we will send over a formal notice of non-compliance. From that exact date, you have seven calendar days to fix your project and bring it into full compliance.
-* **Accumulated Liability:** Fixing the issue within seven days protects your license from being terminated, but it does not erase the past. You remain financially and legally responsible for any damages or unauthorized commercial revenue generated while you were out of compliance.
-* **Material Breach:** If you fail to fix the issues within seven days, or if you intentionally try to remove or forge our licensing attributes, you are in material breach. Your license will be permanently revoked, and we will take immediate steps to issue DMCA takedowns, block your project at the host level, and pursue statutory damages in court.
+- Don't use it for commercial purposes. We dislike users profiting from our own work.
 
----
+- Always use the same license no matter what. You can simply declare this by assigning the license generally instead of individaully.
 
-*To the maximum extent permitted by law, this software is provided entirely "AS IS." We offer no warranties of any kind, whether explicit or implied. Under no circumstances will the authors or copyright holders be held liable for legal claims, damages, or losses resulting from your use of this software.*
+- Always give credits. As long as our name is clear, it should be fine.
+
+For distributors, you should:
+
+- Not embed the files directly into the bundle. Instead, it should fetch files from official sources where the files are hosted.
+
+- Don't put paywalls. Like said before, we prefer users not to profit from our work.
