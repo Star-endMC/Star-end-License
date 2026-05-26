@@ -58,13 +58,13 @@ This Agreement applies globally to the maximum extent permitted by applicable la
 
 ## (IV) Violations, Enforcements and Remedies
 
-(6) If an individual or entity is found to be violating the terms of this Agreement, Star-end may issue a formal written notice of non-compliance.
+(6, Notice of Non-Compliance and Remediation Window) If an individual or entity is found to be violating the terms of this Agreement, Star-end may issue a formal written notice of non-compliance.
 
 - The violating party is granted a strict period of seven (7) calendar days from the date of the notice to bring their ecosystem into full compliance.
 
 - While the license may continue if compliance is met within this 7-day window, the violating party remains fully liable for any damages, unauthorized commercial revenue, or intellectual property infringement accumulated during the period of non-compliance.
 
-(7) Failure to achieve full compliance within seven (7) days of written notice, or any intentional attempt to bypass, strip, or mock the licensing attributes of the Software, constitutes an immediate and uncurable material breach. Upon breach, this Agreement terminates automatically, all rights granted to the violating party are permanently revoked, and Star-end reserves the absolute right to execute immediate platform DMCA takedowns, host-level interventions, and legal enforcement for statutory damages.
+(7, Material Breach and Termination Failure) Failure to achieve full compliance within seven (7) days of written notice, or any intentional attempt to bypass, strip, or mock the licensing attributes of the Software, constitutes an immediate and uncurable material breach. Upon breach, this Agreement terminates automatically, all rights granted to the violating party are permanently revoked, and Star-end reserves the absolute right to execute immediate platform DMCA takedowns, host-level interventions, and legal enforcement for statutory damages.
 
 # (V) General Provisions and Disclaimers
 
